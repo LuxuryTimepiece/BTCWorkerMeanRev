@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.11.0
+flask>=3.0.0
+gunicorn>=21.0.0
